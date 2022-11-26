@@ -1,0 +1,25 @@
+.total{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: black;
+    color:darkorange ;
+  }
+  .k27{
+     width: 600px;
+     height: 100%;
+     margin-left:350px ;
+  
+  }
+  .k2007 img{
+      height: 500px;
+      width: 400px;
+  }
+  .k2008 img{
+    width: 100%;
+    height: 450px;
+  }
+  .k2009 img{
+    width: 100%;
+    height: 450px;
+  }

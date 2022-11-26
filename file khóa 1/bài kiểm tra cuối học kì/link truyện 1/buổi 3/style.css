@@ -1,0 +1,21 @@
+.life{
+    height: 200px;
+    width: 500px;
+    background-color: red;
+}
+.tren{
+    margin-left: 200px;
+    
+}
+.right{
+    margin-left: 50px;
+}
+.left{
+    margin-left: 400px;
+}
+ .duoi{
+    
+ }
+body{
+    display:flex;
+}

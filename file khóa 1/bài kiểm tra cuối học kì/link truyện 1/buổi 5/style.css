@@ -1,0 +1,106 @@
+.box1 img{
+    width: 100%;
+}
+.box2 {
+    display: flex;
+justify-content: space-around;
+text-align: center;
+}
+.box3{
+    background-color: black;
+    color: aliceblue;
+    height: 700px;
+    
+}
+.box3 button{
+    background-color:black;
+    color: aliceblue;
+   
+
+}
+.box33 {
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    color: black;
+ 
+}
+.box33 img{
+    width: 100%;
+    
+}
+.box333{
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    color: black;
+   
+}
+.box333 img{
+    width: 100%;
+}
+.box3333{
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    color: black;
+    
+}
+.box3333 img{
+    width: 100%;
+}
+.x33 {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.xx33 {
+    text-align: center;
+}
+.xx33 input {
+    width: 60%;
+    height: 30px;
+}
+.x33 button {
+    height: 30px;
+    width: 40%;
+}
+.box44 {
+    text-align: center;
+}
+.box44 p{
+    font-style: italic;
+}
+.box444 {
+    display: flex;
+
+}
+.xx4 input {
+    height: 30px;
+    width: 300px;
+}
+.xx4{
+    display: flex;
+    flex-wrap: wrap;
+}
+.xx44 input {
+    height: 30px;
+    width: 608px;
+}
+.box4444{
+    margin-left: 380px;
+    margin-top: 50px
+}
+.x4{
+    height: 200px;
+    width: 150px;
+    margin-top: 40px;
+
+}
+.box4 button{
+    background-color: black;
+    color: aliceblue;
+    height: 25px;
+    width: 50px;
+  
+}

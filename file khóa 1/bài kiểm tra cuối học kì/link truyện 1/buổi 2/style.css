@@ -1,0 +1,26 @@
+marquee{
+    font-size: 50px;;
+}
+
+button{
+    width: 500px;
+    height: 200px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: white;
+    color: red;
+
+div{
+    height: 1500px
+    wedth: 200px
+    background-colour: red
+
+
+} 

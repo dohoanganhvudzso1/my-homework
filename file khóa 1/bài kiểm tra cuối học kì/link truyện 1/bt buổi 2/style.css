@@ -1,0 +1,33 @@
+form{
+    box-sizing: border-box;
+    height:500px;
+    width: 300px;
+    padding-bottom:0cm ;
+    
+}
+body{
+    font-weight: 300px;
+    font-size: larger;
+    font-style:italic;
+    background-color: rgb(143, 78, 78);
+    text-align:center;
+}
+
+span{
+    font-size: larger;
+    font-weight:bolder;
+    font-style: oblique;
+    width: 500px;
+    height: 800px;
+}
+button{
+    height: 50px;
+    width: 80px;
+}
+ div{ 
+    width: 1500px;
+    height: 40px;
+    color: red;
+    background-color: yellow;
+}
+
